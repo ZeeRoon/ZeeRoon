@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZeeRoon
 - 👀 I’m interested in Cyber Security | CTF | Bug Bounty
-- 🌱 I’m currently learning Web App Exploitation | Computer Science | Design
+- 🌱 I’m currently learning Web App Exploitation | Computer Science
 - Sorry! you can't reach me, for now. :P
 
 <!---
